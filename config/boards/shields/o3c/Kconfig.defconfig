@@ -1,0 +1,6 @@
+if SHIELD_O3C
+
+config ZMK_KEYBOARD_NAME
+    default "o3c"
+
+endif
